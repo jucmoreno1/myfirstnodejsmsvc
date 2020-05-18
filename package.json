@@ -1,0 +1,24 @@
+{
+  "name": "myfirstnodejsmsvc",
+  "version": "1.0.0",
+  "description": "My first microservice in Nodejs",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "console.log('test command myapp.js');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jucmoreno1/myfirstnodejsmsvc.git"
+  },
+  "keywords": [
+    "gcp",
+    "microservice",
+    "nodejs"
+  ],
+  "author": "Juan Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jucmoreno1/myfirstnodejsmsvc/issues"
+  },
+  "homepage": "https://github.com/jucmoreno1/myfirstnodejsmsvc#readme"
+}
