@@ -7,6 +7,11 @@ app.get('/firstGetMethod/v1',
     }
 );
 
+app.get('/firstGetMethod/v2',
+    (req,res) =>{
+        res.send("My very get nodejs method, say hello to my little frind perrines! IAM RUNNING AT CLOUDRUN");
+    }
+);
 
 app.listen(7080,
     ()=>{
