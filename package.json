@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jucmoreno1/myfirstnodejsmsvc/issues"
   },
-  "homepage": "https://github.com/jucmoreno1/myfirstnodejsmsvc#readme"
+  "homepage": "https://github.com/jucmoreno1/myfirstnodejsmsvc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
